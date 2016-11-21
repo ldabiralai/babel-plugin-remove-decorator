@@ -21,7 +21,7 @@ I'll happily accept PRs that add support for removing decorators on methods (or 
 $ npm install --save-dev babel-plugin-remove-decorator
 ```
 ```bash
-$ yarn add --save-dev babel-plugin-remove-decorator
+$ yarn add --dev babel-plugin-remove-decorator
 ```
 
 Add to your babelrc:
