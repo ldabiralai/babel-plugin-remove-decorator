@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-remove-decorator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Babel 6 plugin that removes class decorators",
   "main": "index.js",
   "license": "MIT"
