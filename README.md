@@ -1,4 +1,4 @@
-# babel-plugin-remove-decorator
+# babel-plugin-remove-decorator [![CircleCI](https://circleci.com/gh/ldabiralai/babel-plugin-remove-decorator.svg?style=svg)](https://circleci.com/gh/ldabiralai/babel-plugin-remove-decorator)
 Babel 6 plugin that removes class decorators, useful when running unit tests
 
 At the moment this only removes decorators from top level classes, for example:
