@@ -1,9 +1,9 @@
 # babel-plugin-remove-decorator
-Babel 6 plugin that removes class decorators, useful when running unit tests
+Babel 6 plugin that removes all decorators, useful when running unit tests
 
-At the moment this only removes decorators from top level classes, for example:
+Removes decorators from top level classes, for example:
 
-Before: 
+Before:
 ```js
 @MyDecorator
 class Content {}
@@ -13,7 +13,7 @@ After:
 class Content {}
 ```
 
-I'll happily accept PRs that add support for removing decorators on methods (or any other improvements)
+I'll happily accept PRs for any further improvements to the project!
 
 
 ## Usage
