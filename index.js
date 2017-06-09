@@ -1,6 +1,6 @@
 import babelPluginSyntaxDecorators from 'babel-plugin-syntax-decorators';
 
-const decoratableTypes = [
+export const decoratableTypes = [
     "ArrayPattern",
     "AssignmentPattern",
     "ClassExpression",
